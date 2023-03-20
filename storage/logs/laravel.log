@@ -1,0 +1,8 @@
+[2023-03-18 06:18:15] local.ERROR: Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) at E:\\Framework\\Laravel\\l_crud\\storage\\framework\\views\\0c14f9ee9560dad6a9401dc3415cddd2.php:104)
+[stacktrace]
+#0 {main}
+"} 
+[2023-03-18 06:19:07] local.ERROR: Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) at E:\\Framework\\Laravel\\l_crud\\storage\\framework\\views\\0c14f9ee9560dad6a9401dc3415cddd2.php:104)
+[stacktrace]
+#0 {main}
+"} 
